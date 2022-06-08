@@ -8,7 +8,7 @@ const Contacts = (props) => {
         <h2>vardas: {props.name}</h2>
         <h3>email: {props.email}</h3>
         <h3>age: {props.age}</h3>
-        <p>cia yra mano kortele</p>
+       
     </div>
   )
 }
